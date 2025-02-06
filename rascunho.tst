@@ -5,3 +5,5 @@ python e eu não sabia definir uma FUNÇÃO em python, assim como trabalhar com 
 - COMO DEFINIR UMA FUNÇÃO EM PYTHON
 
 Em python, uma função é um bloco de codigo que só é execultado quando é chamado
+Você pode passar dados para uma função e as funções elas podem retorna dados como resultado
+A estrutura básica para definir uma função está lá no aquivo (estruturaBasica.py)
