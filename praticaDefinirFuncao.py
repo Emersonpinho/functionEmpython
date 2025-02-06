@@ -1,4 +1,4 @@
 def saudacao(mensagem, nome="Emerson"):
-    print(f'{mensagem}, {nome}')
+    return f"{mensagem}, {nome}"
 
-saudacao("Olá")
+print(saudacao("Olá"))# Olá, Emerson
