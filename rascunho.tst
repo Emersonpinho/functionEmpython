@@ -4,4 +4,4 @@ python e eu não sabia definir uma FUNÇÃO em python, assim como trabalhar com 
 
 - COMO DEFINIR UMA FUNÇÃO EM PYTHON
 
-Em python uma função é um bloco de codigo que só é execultado quando é chamado
+Em python, uma função é um bloco de codigo que só é execultado quando é chamado
