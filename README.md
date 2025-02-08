@@ -4,13 +4,13 @@
 Bem-vindo ao repositório **functionEmpython**! Este projeto foi criado para mostrar o poder da combinação de Python e Scilab. Abaixo, você encontrará todas as informações necessárias para começar e entender o propósito deste repositório.
 
 ## 📚 Índice
-- [Introdução](Introdução)
-- [Funcionalidades](Funcionalidades)
-- [Instalação](Instalação)
-- [Uso](Uso)
-- [Contribuindo](Contribuindo)
-- [Licença](Licença)
-- [Agradecimentos](Agradecimentos)
+- [Introdução](##Introdução)
+- [Funcionalidades](##Funcionalidades)
+- [Instalação](##Instalação)
+- [Uso](##Uso)
+- [Contribuindo](##Contribuindo)
+- [Licença](##Licença)
+- [Agradecimentos](##Agradecimentos)
 
 ## 🌟 Introdução
 **functionEmpython** é um projeto que combina as forças do Python (59,1%) e do Scilab (40,9%) para fornecer soluções poderosas e flexíveis. Este repositório contém uma coleção de funções e scripts que podem ser usados para diversas tarefas computacionais.
