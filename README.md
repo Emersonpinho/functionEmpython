@@ -4,7 +4,7 @@
 Bem-vindo ao repositório **functionEmpython**! Este projeto foi criado para mostrar o poder da combinação de Python e Scilab. Abaixo, você encontrará todas as informações necessárias para começar e entender o propósito deste repositório.
 
 ## 📚 Índice
-- [Introdução](##Introdução)
+- [Introdução](##🌟Introdução)
 - [Funcionalidades](##Funcionalidades)
 - [Instalação](##Instalação)
 - [Uso](##Uso)
